@@ -39,14 +39,6 @@ const   schema      = schema_constructor(from_elon),
         deaths      = [],
         hungry      = () => console.log('ba' + +'a'+'a');
 
-//I copy and pasted this part of the code, i wish i was smart enough to to be able to do something like this
-function uuidv4() {
-    return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g,c=> {
-        const r=Math.random()*16|0,v=c=='x'?r:(r&0x3|0x8);
-        return v.toString(16);
-    });
-}
-
 function rover (input_data) {
     
     return new Promise (resolve=>{
