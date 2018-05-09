@@ -117,8 +117,5 @@ function rover (input_data) {
 
 new rover(schema.rovers[0]).then(()=>new rover(schema.rovers[1]).then(()=>new rover(schema.rovers[2])))
 
-// hungry()/*?*/
-
-
 
 
