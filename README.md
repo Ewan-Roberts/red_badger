@@ -1,8 +1,11 @@
 # red_badger
 
-Hey there!
+**-----------------------------------------------------------------------------------------**
 
-I really enojoyed this one! 
+**This should not be used as a respresentation of my coding, this was for fun and fast**
+
+**-----------------------------------------------------------------------------------------**
+
 
 I wanted to see how compact and contructor based I could make it. Unfortunately the compactness and this strategy came with some serious down sides below: 
 
